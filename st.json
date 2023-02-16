@@ -1,0 +1,36 @@
+{
+  "st": [
+    {
+      "name": "shiva",
+      "age": 21,
+      "id": 3,
+      "lastname": "kumar"
+    },
+    {
+      "name": "anusha",
+      "age": 16,
+      "id": 5,
+      "lastname": "T"
+    },
+    {
+      "name": "ramya",
+      "age": 16,
+      "id": 4
+    },
+    {
+      "name": "srinivas",
+      "age": 27,
+      "id": 6
+    },
+    {
+      "name": "sai",
+      "age": 28,
+      "id": 7
+    },
+    {
+      "name": "saikumar",
+      "age": 28,
+      "id": 8
+    }
+  ]
+}
